@@ -1,0 +1,4 @@
+﻿  GA.c
+d:\project15\project15\ga.c(106): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Project15.vcxproj -> D:\Project15\Debug\Project15.exe
+  Project15.vcxproj -> D:\Project15\Debug\Project15.pdb (Partial PDB)
