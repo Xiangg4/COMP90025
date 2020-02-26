@@ -17,6 +17,7 @@ Project16: A Microsoft VS2017 Project Directory of  the Backtracking Solution
 All these project are compiled and built on Microsoft Visual Studio 2017 (Window 10). 
 
 4. Configuration and Run on Windows 10:
+
 4.1 Parallel Genetic Algorithm Solution:
 Step 1: Install Microsoft MPI on the computer and make a number of configurations combining MS-MPI and VS2017. (Guide: https://www.youtube.com/watch?v=IW3SKDM_yEs)
 Step 2: Build the project and generate the .exe file
